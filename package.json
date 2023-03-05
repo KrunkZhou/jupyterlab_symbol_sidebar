@@ -1,7 +1,7 @@
 {
   "name": "jupyterlab-symbol-sidebar",
-  "version": "0.1.0",
-  "description": "Easily code unicode char into Jupyter Lab",
+  "version": "0.1.1",
+  "description": "Easily copy unicode char into Jupyter Lab",
   "keywords": [
     "jupyter",
     "jupyterlab",
