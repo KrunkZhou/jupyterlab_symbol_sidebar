@@ -1,7 +1,9 @@
 # jupyterlab_symbol_sidebar
 
 [![Github Actions Status](https://github.com/KrunkZhou/jupyterlab_symbol_sidebar/workflows/Build/badge.svg)](https://github.com/KrunkZhou/jupyterlab_symbol_sidebar/actions/workflows/build.yml)
-Easily code unicode char into Jupyter Lab
+Easily copy unicode char into Jupyter Lab
+
+![screenshot](./images/1.png)
 
 ## Requirements
 
