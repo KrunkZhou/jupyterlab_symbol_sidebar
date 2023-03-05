@@ -3,7 +3,7 @@
 [![Github Actions Status](https://github.com/KrunkZhou/jupyterlab_symbol_sidebar/workflows/Build/badge.svg)](https://github.com/KrunkZhou/jupyterlab_symbol_sidebar/actions/workflows/build.yml)
 Easily copy unicode char into Jupyter Lab
 
-![screenshot](./images/1.png)
+<img src="./images/1.png" width="400px">
 
 ## Requirements
 
