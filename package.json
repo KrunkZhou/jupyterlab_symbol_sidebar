@@ -1,6 +1,6 @@
 {
   "name": "jupyterlab-symbol-sidebar",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Easily copy unicode char into Jupyter Lab",
   "keywords": [
     "jupyter",
@@ -14,7 +14,7 @@
   "license": "BSD-3-Clause",
   "author": {
     "name": "Tianyu Zhou",
-    "email": "i@tianyuzhou.ca"
+    "email": "webmaster@krunk.cn"
   },
   "files": [
     "lib/**/*.{d.ts,eot,gif,html,jpg,js,js.map,json,png,svg,woff2,ttf}",
